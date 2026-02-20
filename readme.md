@@ -3,7 +3,7 @@
 ### Full Stack Developer | MERN | AI Enthusiast | Cloud Learner
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshay0611&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=akshaydeploy&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ I'm a passionate full-stack developer who loves building scalable web applicatio
   <a href="https://linkedin.com/in/akshaykumar0611">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:akshay.allen26200@gmail.com">
+  <a href="mailto:akshay.cloud009@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/akshay0611">
