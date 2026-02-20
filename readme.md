@@ -21,7 +21,7 @@ I'm a passionate full-stack developer who loves building scalable web applicatio
 
 ### ⚡ Quick Facts
 
-- 📧 Reach me at: akshay.allen26200@gmail.com
+- 📧 Reach me at: akshay.cloud009@gmail.com
 - 💻 Problem solver on LeetCode & HackerRank
 - 🌟 Always learning, always growing
 
