@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,100:4fc4cf&height=200&section=header&text=Akshay%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20Integration%20%E2%80%A2%20Cloud%20Infrastructure&descAlignY=58&descSize=16&descColor=c0b8ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,100:4fc4cf&height=200&section=header&text=Akshay%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20Integration%20%E2%80%A2%20Cloud%20Infrastructure&descAlignY=58&descSize=16&descColor=c0b8ff" /> 
 
 <img src="https://komarev.com/ghpvc/?username=akshaydeploy&color=7c6af7&style=flat&label=Profile+Views" />
 &nbsp;
